@@ -1,3 +1,6 @@
-# Web-Development-Resources
+# Web Development Resources
+This repository lists a number of resources I found useful for full-stack web development.
 
-This repository lists a number of resources I found useful for developing a full-stack web application. 
+## APIs
+
+- [Public APIs](https://public-apis.xyz/): A collection of public and free APIs for development.
