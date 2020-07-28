@@ -10,8 +10,8 @@ This repository lists a number of resources I found useful for full-stack web de
 
 
 ## Online development
--[Code Sandbox](https://codesandbox.io/): Online IDE for Rapid Web Development.
--[Code Pen](https://codepen.io/): Build, test and discover frond-end code.
+- [Code Sandbox](https://codesandbox.io/): Online IDE for Rapid Web Development.
+- [Code Pen](https://codepen.io/): Build, test and discover frond-end code.
 
 ## React tutorials
 - [React - Getting Started](https://daveceddia.com/react-getting-started-tutorial): React getting started tutorial
