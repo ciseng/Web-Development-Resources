@@ -5,7 +5,7 @@ This repository lists a number of resources I found useful for full-stack web de
 - [Public APIs](https://public-apis.xyz/): A collection of public and free APIs for development.
 
 ## Fullstack tutorials
--[Altcademy’s Full-stack Web Development Syllabus (2020)](https://www.altcademy.com/syllabus/full-stack-web-development): A detailed overview of what’s involved in full-stack web development.
+- [Altcademy’s Full-stack Web Development Syllabus (2020)](https://www.altcademy.com/syllabus/full-stack-web-development): A detailed overview of what’s involved in full-stack web development.
 
 ## Learning CSS
 - [CSS Layouts](https://daveceddia.com/implement-a-design-with-css/): A step-by-step CSS Layout tutorial with Flexbox
