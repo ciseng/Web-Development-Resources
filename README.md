@@ -16,6 +16,7 @@ This repository lists a number of resources I found useful for full-stack web de
 
 ## Learning React 
 - [React - Getting Started](https://daveceddia.com/react-getting-started-tutorial): React getting started tutorial
+- [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html): Build a tic-tac-toe game
 
 ## Online development
 - [Code Sandbox](https://codesandbox.io/): Online IDE for Rapid Web Development.
