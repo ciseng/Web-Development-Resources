@@ -15,6 +15,7 @@ This repository lists a number of resources I found useful for full-stack web de
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript): Why a re-introduction? Because JavaScript is notorious for being the world's most misunderstood programming language.
 - [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Learning React 
 - [React - Getting Started](https://daveceddia.com/react-getting-started-tutorial): React getting started tutorial
