@@ -13,6 +13,7 @@ This repository lists a number of resources I found useful for full-stack web de
 ## Learning JavaScript
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/): This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript): Why a re-introduction? Because JavaScript is notorious for being the world's most misunderstood programming language.
+- [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 ## Learning React 
 - [React - Getting Started](https://daveceddia.com/react-getting-started-tutorial): React getting started tutorial
