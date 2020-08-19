@@ -22,6 +22,9 @@ This repository lists a number of resources I found useful for full-stack web de
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html): Build a tic-tac-toe game
 - [3 Mistakes Junior Developers Make With React Function Component State](https://medium.com/better-programming/3-mistakes-junior-developers-make-with-react-function-component-state-8a744ab99a0d): Do not modify state directly, set state that relies on the previous state without using a function, forget that the setter method from useState is asynchronous
 
+## Browser Developer Tools 
+- [Chrome Dev Tools](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674): Use Chrome Dev Tools like a senior frontend developer
+
 ## Online development
 - [Code Sandbox](https://codesandbox.io/): Online IDE for Rapid Web Development.
 - [Code Pen](https://codepen.io/): Build, test and discover frond-end code.
