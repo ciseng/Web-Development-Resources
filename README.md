@@ -18,6 +18,7 @@ This repository lists a number of resources I found useful for full-stack web de
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Learning React 
+- [React advice for New Developers](https://medium.com/javascript-in-plain-english/i-read-the-entire-react-api-here-is-my-advice-to-new-developers-d040507e6c23): 
 - [React - Getting Started](https://daveceddia.com/react-getting-started-tutorial): React getting started tutorial
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html): Build a tic-tac-toe game
 - [3 Mistakes Junior Developers Make With React Function Component State](https://medium.com/better-programming/3-mistakes-junior-developers-make-with-react-function-component-state-8a744ab99a0d): Do not modify state directly, set state that relies on the previous state without using a function, forget that the setter method from useState is asynchronous
