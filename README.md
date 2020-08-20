@@ -8,7 +8,9 @@ This repository lists a number of resources I found useful for full-stack web de
 - [Altcademy’s Full-stack Web Development Syllabus (2020)](https://www.altcademy.com/syllabus/full-stack-web-development): A detailed overview of what’s involved in full-stack web development.
 
 ## Learning CSS
+- [Mozilla Developer Sources: CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Layouts](https://daveceddia.com/implement-a-design-with-css/): A step-by-step CSS Layout tutorial with Flexbox
+
 
 ## Learning JavaScript
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/): This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.
