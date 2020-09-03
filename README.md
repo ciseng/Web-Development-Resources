@@ -6,7 +6,7 @@ This repository lists a number of resources I found useful for full-stack web de
 
 ## Fullstack tutorials and courses
 - [Altcademy’s Full-stack Web Development Syllabus (2020)](https://www.altcademy.com/syllabus/full-stack-web-development): A detailed overview of what’s involved in full-stack web development.
-- Harvard's CS50 Web programming with Python and JavaScript(https://cs50.harvard.edu/web/2020/): A great course, that goes over fundamental concepts with code demos.
+- [Harvard's CS50 Web programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/): A great course, that goes over fundamental concepts with code demos.
 
 ## Learning CSS
 - [Mozilla Developer Sources: CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
