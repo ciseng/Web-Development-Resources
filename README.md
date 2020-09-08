@@ -16,6 +16,7 @@ This repository lists a number of resources I found useful for full-stack web de
 ## Learning JavaScript
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/): This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript): Why a re-introduction? Because JavaScript is notorious for being the world's most misunderstood programming language.
+- [JavaScript arrays](https://medium.com/better-programming/every-javascript-array-method-a50905f916bd):Every JavaScript Array Method explained.
 - [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
