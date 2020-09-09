@@ -9,7 +9,7 @@ This repository lists a number of resources I found useful for full-stack web de
 - [Harvard's CS50 Web programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/): A great course, that goes over fundamental concepts with code demos.
 
 ## Learning CSS
-- [Mozilla Developer Sources: CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Mozilla Developer Sources: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Layouts](https://daveceddia.com/implement-a-design-with-css/): A step-by-step CSS Layout tutorial with Flexbox
 
 
