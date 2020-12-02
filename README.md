@@ -13,6 +13,7 @@ This repository lists a number of resources I found useful for full-stack web de
 - [Mozilla Developer Sources: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Layouts](https://daveceddia.com/implement-a-design-with-css/): A step-by-step CSS Layout tutorial with Flexbox
 - [CSS Examples](https://css-examples.wizardzines.com/): Some examples of weird things that can happen with CSS
+- [Useful CSS tools for Web Developers](https://levelup.gitconnected.com/9-useful-css-tools-for-web-developers-4ae3e8747b8a)
 
 
 ## Learning JavaScript
