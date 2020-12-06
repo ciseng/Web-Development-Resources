@@ -15,6 +15,7 @@ This repository lists a number of resources I found useful for full-stack web de
 - [CSS Examples](https://css-examples.wizardzines.com/): Some examples of weird things that can happen with CSS
 - [Useful CSS tools for Web Developers](https://levelup.gitconnected.com/9-useful-css-tools-for-web-developers-4ae3e8747b8a): A list of tools from generating transitions to flexbox helpers.
 - [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): A comprehensive and visual guide that explain CSS Flexbox.
+- [CSS3 Generator](https://enjoycss.com/): Online CSS3 generator with a graphical Interface
 
 ## Learning JavaScript
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/): This book makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible.
