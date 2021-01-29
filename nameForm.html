@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Name Form</title>
+        <script>
+           document.addEventListener('DOMContentLoaded',()=>{
+               document.querySelector('form').onsubmit=()=>{
+                    const name = document.querySelector('#name').value;
+                    fetch(`https://api.agify.io/?name=${name}`)
+                    .then(response=>response.json())
+                    .then(data=>{
+                        const p = document.createElement('p');
+                        p.innerHTML = `You must be ${data.age} old!`;
+                        document.querySelector('body').append(p);
+                    });
+                    //Stop from submitting
+                    return false;
+               }
+           });
+        </script>
+    </head>
+    <body>
+        <p>Enter your name:</p>
+        <form >
+            <input id="name" placeholder="First name" type="text">
+            <input type="submit">
+        </form>
+    </body>
+</html>

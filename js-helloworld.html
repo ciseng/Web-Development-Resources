@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Hello World</title>
+<script>
+  let counter=0;
+  function hello_count(){
+    let header = document.querySelector('h1');
+    counter++;
+    if (counter === 1){
+        header.innerHTML=`You said Hello ${counter} time`;
+    } else {
+        header.innerHTML=`You said Hello ${counter} times`;
+    }
+   }
+
+   document.addEventListener('DOMContentLoaded', function(){
+       document.addEventListener('click', hello_count);
+   });
+
+</script>
+</head>
+
+<body>
+    <h1>You haven't said Hello!</h1>
+    <button>Say Hello</button>
+</body>
+</html>
